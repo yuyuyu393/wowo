@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://ygxian.jiuzhe.com.cn/:splat"
+  status = 200
+  force = true
